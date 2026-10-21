@@ -13,14 +13,17 @@ into a record of additions and cancelations, and provides a formal methodology o
 
 **Formal Methodology:** <https://www.tituslegaldesign.com/immigration-101/287-g/report-methodology>
 
+<hr>
+
 ## What's here
 
 | Path | Contents |
 |---|---|
-| `data/processed/` | Published outputs — confirmed cancelations, additions, edits |
+| `data/active-agreements/` | ICE's active 287(g) agreement list, processed and enriched for report purposes. Weekly CSV snapshots published here with as-of dates for reference. |
+| `data/canceled-agreements/` | Archival list of agreements removed from ICE's published list since January 2025. Weekly CSV snapshots published here with as-of dates for reference. |
 | `docs/METHODOLOGY.md` | How a cancelation is defined, confirmed, and verified |
 | `docs/DATA_DICTIONARY.md` | **COMING SOON** Field-by-field schema for the published files |
-| `src/` | **COMING SOON** Deterministic pull scripts and the replicated output reconciliation pipeline |
+| `src/` | **COMING SOON** Deterministic pull scripts and reconciliation pipeline |
 
 <hr>
 
