@@ -1,7 +1,6 @@
 # 287(g) Program Report
 
-Open data and tooling behind [Titus Consulting](https://tituslegaldesign.com/immigration-101/287g-program)'s
-interactive visual report on ICE's 287(g) program — the law enforcement partnership agreements that deputize state and local officers to act on behalf of ICE. 
+Open data and tooling behind [Titus Consulting](https://tituslegaldesign.com/immigration-101/287g-program)'s interactive visual report on ICE's 287(g) program — the law enforcement partnership agreements that deputize state and local officers to act on behalf of ICE. 
 
 Learn more about the 287(g) program: [Resource Guide](https://www.tituslegaldesign.com/immigration-101/287-g/explore#:~:text=287(g)%20agencies.-,Learn%20More,-Recommended%20resources%20for)
 
@@ -21,8 +20,8 @@ into a record of additions and cancelations, and provides a formal methodology o
 |---|---|
 | `data/active-agreements/` | ICE's active 287(g) agreement list, processed and enriched for report purposes. Weekly CSV snapshots published here with as-of dates for reference. |
 | `data/canceled-agreements/` | Archival list of agreements removed from ICE's published list since January 2025. Weekly CSV snapshots published here with as-of dates for reference. |
-| `docs/METHODOLOGY.md` | How a cancelation is defined, confirmed, and verified |
-| `docs/DATA_DICTIONARY.md` | **COMING SOON** Field-by-field schema for the published files |
+| [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) | Formal report methodology, including data processing and standards. |
+| [`docs/Data-Dictionary.md`](docs/Data-Dictionary.md) | Field-by-field schema and definitions for the published files. |
 | `src/` | **COMING SOON** Deterministic pull scripts and reconciliation pipeline |
 
 <hr>
