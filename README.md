@@ -33,4 +33,4 @@ MIT — see [`LICENSE`](LICENSE). ICE source documents reproduced here are U.S. 
 
 ## Corrections
 
-Data corrections are welcome and appreciated! Please open an issue using the **Data correction** template — it asks for the row, the edition, and the source that contradicts it. See `CONTRIBUTING.md` (coming soon). Alternatively, please feel free to email **info@tituslegaldesign.com** with the correction details.
+Data corrections are welcome and appreciated! `CONTRIBUTING.md` + corrections form coming soon. In the meantime, please email **info@tituslegaldesign.com** with the correction details.
