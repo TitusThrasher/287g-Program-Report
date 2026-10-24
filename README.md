@@ -21,7 +21,7 @@ reconstructs the change history from snapshots, reconciles consecutive editions 
 |---|---|
 | `data/active-agreements/` | ICE's active 287(g) agreement list, processed and enriched for report purposes. Weekly CSV snapshots published here with as-of dates for reference. |
 | `data/canceled-agreements/` | Archival list of agreements removed from ICE's published list since January 2025. Weekly CSV snapshots published here with as-of dates for reference. |
-| [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) | Formal report methodology, including data processing and standards. |
+| [`docs/METHODOLOGY.md`](docs/Report-Methodology.md) | Formal report methodology, including data processing and standards. |
 | [`docs/Data-Dictionary.md`](docs/Data-Dictionary.md) | Field-by-field schema and definitions for the published files. |
 | `src/` | **COMING SOON** Deterministic pull scripts and reconciliation pipeline |
 
