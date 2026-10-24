@@ -1,16 +1,17 @@
 # 287(g) Program Report
 
-Open data and tooling behind [Titus Consulting](https://tituslegaldesign.com/immigration-101/287g-program)'s interactive visual report on ICE's 287(g) program — the law enforcement partnership agreements that deputize state and local officers to act on behalf of ICE. 
+Open data and tooling behind [Titus Consulting](https://tituslegaldesign.com/287g-program/report)'s interactive visual report on ICE's 287(g) program — the law enforcement partnership agreements that deputize state and local officers to act on behalf of ICE. 
+
+<https://datastudio.google.com/embed/reporting/ebe8be08-53be-4afc-9240-83ec3075e873/page/p_5yty8mz8xd>
 
 Learn more about the 287(g) program: [Resource Guide](https://www.tituslegaldesign.com/immigration-101/287-g/explore#:~:text=287(g)%20agencies.-,Learn%20More,-Recommended%20resources%20for)
 
-ICE publishes a spreadsheet of participating agencies, which overwrites the previous 'snapshot' version. There is no changelog, no cancellation date, and no archive. This repository
-reconstructs the change history from snapshots, reconciles consecutive editions
-into a record of additions and cancelations, and provides a formal methodology on the program-related and community-level population datasets used in the published visual report.
+ICE publishes a spreadsheet of participating agencies, which overwrites the previous 'snapshot' version. There is no changelog, no cancelation date, and no archive. This repository
+reconstructs the change history from snapshots, reconciles consecutive editions into a record of additions and cancelations, and provides a formal methodology on the program-related and community-level population datasets used in the published visual report.
 
-**Report Home Page:** <https://tituslegaldesign.com/immigration-101/287g-program>
+**Report Home Page:** <https://tituslegaldesign.com/287g-program/report>
 
-**Formal Methodology:** <https://www.tituslegaldesign.com/immigration-101/287-g/report-methodology>
+**Formal Methodology:** <https://www.tituslegaldesign.com/287g-program/report-methodology>
 
 <hr>
 
