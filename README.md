@@ -6,8 +6,7 @@ Open data and tooling behind [Titus Consulting](https://tituslegaldesign.com/287
 
 Learn more about the 287(g) program: [Resource Guide](https://www.tituslegaldesign.com/immigration-101/287-g/explore#:~:text=287(g)%20agencies.-,Learn%20More,-Recommended%20resources%20for)
 
-ICE publishes a spreadsheet of participating agencies, which overwrites the previous 'snapshot' version. There is no changelog, no cancelation date, and no archive. This repository
-reconstructs the change history from snapshots, reconciles consecutive editions into a record of additions and cancelations, and provides a formal methodology on the program-related and community-level population datasets used in the published visual report.
+ICE publishes a spreadsheet of participating agencies, which overwrites the previous 'snapshot' version. There is no changelog, no cancelation date, and no archive. This repository reconstructs the change history from snapshots, reconciles consecutive editions into a record of additions and cancelations, and provides a formal methodology on the program-related and community-level population datasets used in the published visual report.
 
 **Report Home Page:** <https://tituslegaldesign.com/287g-program/report>
 
@@ -21,7 +20,7 @@ reconstructs the change history from snapshots, reconciles consecutive editions 
 |---|---|
 | `data/active-agreements/` | ICE's active 287(g) agreement list, processed and enriched for report purposes. Weekly CSV snapshots published here with as-of dates for reference. |
 | `data/canceled-agreements/` | Archival list of agreements removed from ICE's published list since January 2025. Weekly CSV snapshots published here with as-of dates for reference. |
-| [`docs/METHODOLOGY.md`](docs/Report-Methodology.md) | Formal report methodology, including data processing and standards. |
+| [`docs/Report-Methodology.md`](docs/Report-Methodology.md) | Formal report methodology, including data processing and standards. |
 | [`docs/Data-Dictionary.md`](docs/Data-Dictionary.md) | Field-by-field schema and definitions for the published files. |
 | `src/` | **COMING SOON** Deterministic pull scripts and reconciliation pipeline |
 
