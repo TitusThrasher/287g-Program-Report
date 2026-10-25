@@ -53,7 +53,7 @@ Compiled from published journalism, state award listings, agency budget and audi
 
 ### 3.1 Snapshot capture
 
-Each published ICE file is first downloaded and manually filtered by 'Signed' date to identify agreements newly added to ICE's snapshot raw data. Discrepancies, including agreements added with retroactive 'Signed' dates, are then detected via the composite key script described below (See [§3.2](#32-change-detection). After processing and manual enrichment ('Location' field) and automated enrichment ('Population' field, which pulls Census data automatically), new records added to the primary list of active agreements (available for download here) are then fetched and auto-populate to the visual report in Data Studio within 15 minutes.
+Each published ICE file is first downloaded and manually filtered by 'Signed' date to identify agreements newly added to ICE's snapshot raw data. Discrepancies, including agreements added with retroactive 'Signed' dates, are then detected via the composite key script described below (See [§3.2](#32-change-detection)). After processing and manual enrichment (`Location` field) and automated enrichment (`Population` field, which pulls Census ACS data automatically), new records added to the primary list of active agreements (available for [download here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRZGuLQ58qO5hS1IO-FrF2yGuDHT4QHIDplON_Akdr7mCZyoG8WorUTxsZq60rNTpkfnm1EmLV3gUhX/pub?gid=1164266648&single=true&output=csv)) are then fetched and auto-populate to the visual report in Data Studio within 15 minutes.
 
 ### 3.2 Change detection
 
@@ -82,7 +82,7 @@ The published report reflects a processed version of ICE's data. Processing is l
 - correcting typographic errors and level-of-government discrepancies;
 - reconciling verifiable discrepancies in agency and jurisdiction names;
 - trimming errant whitespace;
-- enriching with reference data ([§2.5](#25-reference-data);
+- enriching with reference data ([§2.5](#25-reference-data));
 - correction of other verifiable data entry errors.
 
 Corrections are recorded in the 'Notes' field on the affected record. Two representative examples:
@@ -91,7 +91,8 @@ Signature date: ICE's published list shows a signature date of February 23, 2025
 
 Agency name:  The Iuka Police Department (MS) was initially published by ICE as "Luka Police Department." Corrected to "Iuka" against the agency's own records.
 
-Standing rule: Where ICE's published list conflicts with an underlying primary document published by ICE itself, or similar primary evidence, the primary document controls, and the discrepancy is noted on the record.
+> [!IMPORTANT]
+> Standing rule: Where ICE's published list conflicts with an underlying primary document published by ICE itself, or similar primary evidence, the primary document controls, and the discrepancy is noted on the record.
 
 <hr>
 
@@ -107,7 +108,7 @@ Standing rule: Where ICE's published list conflicts with an underlying primary d
 
 - **Administrative arrest**: Per Deportation Data Project, a unique record for "every time ICE arrests someone, whether or not that arrest results in a decision to detain the person."
 
-- **287(g)-related arrest**: An 'administrative arrest with detention' as defined by Deportation Data Project ([DDP codebook](https://deportationdata.org/docs/ice/codebook.html) carrying one or more qualifying ICE tags. Union logic; unweighted; deduplicated.
+- **287(g)-related arrest**: An 'administrative arrest with detention' as defined by Deportation Data Project ([DDP codebook](https://deportationdata.org/docs/ice/codebook.html)) carrying one or more qualifying ICE tags. Union logic; unweighted; deduplicated.
 
 - **Confirmed payment**: A federal reimbursement or state grant to a participating agency evidenced by a primary or credibly reported secondary source. Not a comprehensive record.
 
