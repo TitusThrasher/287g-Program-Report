@@ -22,7 +22,9 @@ ICE publishes a spreadsheet of participating agencies, which overwrites the prev
 | `data/canceled-agreements/` | Archival list of agreements removed from ICE's published list since January 2025. Weekly CSV snapshots published here with as-of dates for reference. |
 | [`docs/Report-Methodology.md`](docs/Report-Methodology.md) | Formal report methodology, including data processing and standards. |
 | [`docs/Data-Dictionary.md`](docs/Data-Dictionary.md) | Field-by-field schema and definitions for the published files. |
-| `src/` | **COMING SOON** Deterministic pull scripts and reconciliation pipeline |
+| [`docs/Source-Data.md`](docs/Source-Data.md) | Details on primary and secondary data sources used in the report. |
+| [`media/media.md`](media/media.md) | Table of media references + citations for the report.
+| `src/` | **COMING SOON** Deterministic pull scripts and reconciliation pipeline. |
 
 <hr>
 
