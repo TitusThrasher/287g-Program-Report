@@ -18,13 +18,13 @@ ICE publishes a spreadsheet of participating agencies, which overwrites the prev
 
 | Name | Path | Contents |
 |---|---|---|
-| **Data**: Active Agreements (CSV) | `data/active-agreements/` | ICE's active 287(g) agreement list, processed and enriched for report purposes. Weekly CSV snapshots published here with as-of dates for reference. |
-| **Data**: Canceled Agreements (CSV) | `data/canceled-agreements/` | Archival list of agreements removed from ICE's published list since January 2025. Weekly CSV snapshots published here with as-of dates for reference. |
+| Active Agreements (**Data:CSV**) | [`data/Active`](data/Active) | ICE's active 287(g) agreement list, processed and enriched for report purposes. Weekly CSV snapshots published here with as-of dates for reference. |
+| Canceled Agreements (**Data:CSV***) | [`data/Canceled`](data/Canceled)| Archival list of agreements removed from ICE's published list since January 2025. Weekly CSV snapshots published here with as-of dates for reference. |
 | Report Methodology (**Docs**)| [`docs/Report-Methodology.md`](docs/Report-Methodology.md) | Formal report methodology, including data processing and standards. |
 | Data Dictionary (**Docs**) | [`docs/Data-Dictionary.md`](docs/Data-Dictionary.md) | Field-by-field schema and definitions for the published files. |
 | Source Data (**Docs**) | [`docs/Source-Data.md`](docs/Source-Data.md) | Details on primary and secondary data sources used in the report. |
 | Media References | [`media/`](media/media.md) | Table of media references + citations for the report. |
-| Resource Guide | [`resources/`](resources/resources.md) | Public and professional resources for understanding the 287(g) program and its impact on local communities. |
+| Resources Guide | [`resources/`](resources/resources.md) | Public and professional resources for understanding the 287(g) program and its impact on local communities. |
 | `src/` | **COMING SOON** | Deterministic pull scripts and reconciliation pipeline. |
 
 <hr>
@@ -32,6 +32,10 @@ ICE publishes a spreadsheet of participating agencies, which overwrites the prev
 ## License
 
 MIT — see [`LICENSE`](LICENSE). ICE source documents reproduced here are U.S. federal government works and are not subject to copyright.
+
+## Author/Creator
+
+A [Titus Consulting](tituslegaldesign.com) product, proudly based in Chicago.
 
 ## Corrections
 
