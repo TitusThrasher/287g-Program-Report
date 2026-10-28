@@ -4,6 +4,7 @@ References and formal citations of the [287(g) program report](https://www.titus
 
 | Source | Author(s) | Article Title | Publication Date | Source Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| FWD.us | Alison Silveira and Felicity Rose | [Force Multiplied](https://www.fwd.us/news/287g-task-force-multiplied/) | Oct. 27, 2026 | Policy Analysis |
 | *ProPublica* & *The NYT Magazine* | Francesca D’Annunzio, McKenzie Funk, et. al |  [A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.](https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander) | Oct. 25, 2026 | National Media |
 | *The Philadelphia Inquirer* | Will Bunch | [How this Pa. county became the most dangerous place for immigrants in the Eastern U.S.](https://www.inquirer.com/opinion/york-carroll-hellam-287g-ice-police-detentions-deportations-haitians-latinos-20261012.html#loaded) | Oct. 12, 2026 | National Media |
 | *News from the States* | Ariana Figueroa | [Federal funds for local police enforcement accelerated Trump immigration crackdown](https://www.newsfromthestates.com/article/federal-funds-local-police-enforcement-accelerated-trump-immigration-crackdown) | Oct. 02, 2026 | National Media |
