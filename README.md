@@ -25,8 +25,8 @@ ICE publishes a spreadsheet of participating agencies, which overwrites the prev
 | Report Methodology (**Docs**)| [`docs/Report-Methodology.md`](docs/Report-Methodology.md) | Formal report methodology, including data processing and standards. |
 | Data Dictionary (**Docs**) | [`docs/Data-Dictionary.md`](docs/Data-Dictionary.md) | Field-by-field schema and definitions for the published files. |
 | Source Data (**Docs**) | [`docs/Source-Data.md`](docs/Source-Data.md) | Details on primary and secondary data sources used in the report. |
-| Media References | [`media/`](media/media.md) | Table of media references + citations for the report. |
-| Resources Guide | [`resources/`](resources/resources.md) | Public and professional resources for understanding the 287(g) program and its impact on local communities. |
+| Media References | [`media/`](media/README.md) | Table of media references + citations for the report. |
+| Resources Guide | [`resources/`](resources/README.md) | Resources for understanding the 287(g) program and its impact on local communities. |
 | `src/` | **COMING SOON** | Deterministic pull scripts and reconciliation pipeline. |
 
 <hr>
