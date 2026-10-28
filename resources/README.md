@@ -1,4 +1,5 @@
 # 287(g) Program Resources
+
 Curated list of resources for understanding how the 287(g) program works, how communities are pushing back on local agencies' participation, etc.
 
 ## Resources for the Public
@@ -29,4 +30,3 @@ Resources particularly useful for journalists, legal professionals, community or
 | ICE/ERO 287(g) UAC SAFETY VERIFICATION INITIATIVE | [Link](https://wehco.media.clients.ellingtoncms.com/news/document/2026/07/10/CTFP-UAC_Safety_Verification_Initiative_Incentives_Program_for_287g_Partners.pdf) | *[Chattanooga Times Free Press](https://www.timesfreepress.com/news/2026/jul/12/tennessee-constable-could-see-394k-from-ice/)* (via public records request) | July 12, 2026 | ICE Internal Program Document
 | 287(g) Service Agreement, Task Force Model (Owyhee County Sheriff's Office) | [Link](https://www.documentcloud.org/documents/28083186-287g-service-agreement-ocso-2/#document/p1) | *[InvestigateWest](https://www.investigatewest.org/rural-idaho-sheriffs-office-got-at-least-116-000-for-helping-ice/)* (via public records request) | April 30, 2026 | ICE Internal Program Document |
 | Sheriff Immigration Law Enforcement Grant Program Awards List (TX SB 8) | [Link](https://comptroller.texas.gov/economy/development/grants/sb8/awards.php) | Texas Comptroller's Office | Sept. 29, 2026 | State Grant Award List
-
