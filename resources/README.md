@@ -12,7 +12,7 @@ From other organizations:
 
 From Titus:
 - [Maxwell Commons Newsletter](#maxwell-commons-newsletter)
-- [Policy Tracking](/resources/policy/README.md)
+- [Policy Tracking](/resources/policy/)
 - [287(g) Infographics](/resources/infographics/)
 
 <hr>
