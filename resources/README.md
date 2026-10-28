@@ -7,9 +7,13 @@ Curated list of resources for understanding how the 287(g) program works, how co
 From other organizations:
 - [Resources for the Public](#resources-for-the-public)
 - [Resources for Professionals](#resources-for-professionals)
+  
+<hr>
+
+From Titus:
 - [Maxwell Commons Newsletter](#maxwell-commons-newsletter)
 - [Policy Tracking](/policy/README.md)
-- [287(g) Infographics](/infographics)
+- [287(g) Infographics](/infographics/)
 
 <hr>
 
