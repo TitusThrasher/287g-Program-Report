@@ -2,6 +2,17 @@
 
 Curated list of resources for understanding how the 287(g) program works, how communities are pushing back on local agencies' participation, etc.
 
+## Start Here:
+
+From other organizations:
+- [Resources for the Public](#resources-for-the-public)
+- [Resources for Professionals](#resources-for-professionals)
+- [Maxwell Commons Newsletter](#maxwell-commons-newsletter)
+- [Policy Tracking](/policy/README.md)
+- [287(g) Infographics](/infographics)
+
+<hr>
+
 ## Resources for the Public
 
 | Resource Name | Link | Published by | Date Published/Updated | Resource Type |
