@@ -11,7 +11,7 @@ From other organizations:
 <hr>
 
 From Titus:
-- [Maxwell Commons Newsletter](#maxwell-commons-newsletter)
+- [Maxwell Commons Newsletter](/resources/maxwell-commons-newsletter/README.md)
 - [Policy Tracking](/resources/policy/)
 - [287(g) Infographics](/resources/infographics/)
 
@@ -47,19 +47,5 @@ Resources particularly useful for journalists, legal professionals, community or
 | Sheriff Immigration Law Enforcement Grant Program Awards List (TX SB 8) | [Link](https://comptroller.texas.gov/economy/development/grants/sb8/awards.php) | Texas Comptroller's Office | Sept. 29, 2026 | State Grant Award List
 
 <hr>
-
-## Maxwell Commons Newsletter
-
-Posts originally published by Andrew Thrasher on Substack as the [Maxwell Commons](https://maxwellcommons.substack.com/) newsletter. 
-
-| Article | Published Date | Link |
-| --- | --- | --- |
-| The Contract Terms of an Ethnic Cleansing Campaign | Aug. 11, 2026 | [Text](maxwell-commons-newsletter/Contract-Terms-of-an-Ethnic-Cleansing-Campaign-08112026.html) |
-| A $22,500 Per-Child Bounty System | July 17, 2026 | [Text](maxwell-commons-newsletter/22500-Per-Child-Bounty-System-07172026.html) |
-| 2,033 Law Enforcement Contracts Feeding the Deportation Machine | June 27, 2026 | [Text](resources/maxwell-commons-newsletter/2033-Law-Enforcement-Contracts-Feeding-Deportation-Machine-06272026.html) |
-| Making Some Noise | June 14, 2026 | [Text](resources/maxwell-commons-newsletter/Making-Some-Noise-06142026.html) |
-| ICE's First Mile Contractors | June 08, 2026 | [Text](resources/maxwell-commons-newsletter/ICEs-First-Mile-Contractors-06082026.html) |
-| ICE, 287(g), and a Machine that Kills | May 16, 2026 | [Text](resources/maxwell-commons-newsletter/ICE-287g-and-a-Machine-that-Kills-05162026.html) |
-| Proceed with Caution | May 12, 2026 | [Text](resources/maxwell-commons-newsletter/Proceed-with-Caution-05122026.html) |
 | ICE's Failed Plans for Tribal Lands | April 27, 2026 | [Text](resources/maxwell-commons-newsletter/ICEs-Failed-Plans-for-Tribal-Lands-04272026.html) |
 
