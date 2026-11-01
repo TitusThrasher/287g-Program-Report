@@ -18,7 +18,7 @@ ICE publishes a spreadsheet of participating agencies, which overwrites the prev
 
 <hr>
 
-## What's here
+## 🗺️ What's here
 
 ```mermaid
 treeView-beta
@@ -43,27 +43,65 @@ treeView-beta
                 ✍️ LICENSE
 ```
 
-### data
+<hr>
 
+### 🧮  Data
 
-### media
+Archive snapshots of 287(g) Program Report processed data; dynamic "live" data is available for viewing/download in the report. For questions or issues accessing the data, please reach out at <info@tituslegaldesign.com>
 
+📂 Active agreements (Weekly CSV snapshots)
 
-### docs
+📂 Canceled agreements (Weekly CSV snapshots)
 
+🔜 287(g) arrest data (CSV; processed data originally secured and published by [Deportation Data Project](/docs/SOURCE_DATA.md)
 
-### resources
-
+🔜 Financial data
 
 <hr>
 
-## License
+### 📰  Media
 
-MIT — see [`LICENSE`](LICENSE). ICE source documents reproduced here are U.S. federal government works and are not subject to copyright.
+List of the **287(g) Program Report**'s media references and formal citations, with links to source articles.
+
+<hr>
+
+### 🗄️  Docs
+
+📂  [Formal report methodology](docs/METHODOLOGY/methodology.md)
+
+🔍  [Data dictionary](docs/DATA-DICTIONARY.md)
+
+📦  [Source data profiles](docs/SOURCE-DATA.md)
+
+🗒️  [Project changelog](docs/CHANGELOG.md)
+
+➕  Project and community standards documentation.
+
+<hr>
+
+### 🎒  Resources
+
+Curated [resource guide](resources/README.md) for understanding the 287(g) program, its current era of rapid expansion, and its local impact on communities across the United States.
+
+📂 [Infographics](resources/infographics)
+
+📂 [Maxwell Commons Newsletter archive](resources/maxwell-commons-newsletter/README.md)
+
+📂 [287(g) Policy Explainers + Analysis](resources/policy)
+
+<hr>
+
+##  License
+
+MIT — see [`LICENSE`](LICENSE). Government works and 3rd-party resources reproduced here, or otherwise referenced within this project, are not subject to this license.
+
+<hr>
 
 ## Author/Creator
 
 A [Titus Consulting](tituslegaldesign.com) product, proudly based in Chicago.
+
+<hr>
 
 ## Corrections
 
