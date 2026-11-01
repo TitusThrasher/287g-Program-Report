@@ -1,6 +1,22 @@
 # Data Dictionary
 
-## Active Agreements List
+- [General terminology](#general-terminology)
+- [Data schema](#data-schema)
+
+<hr>
+
+## General terminology
+
+
+
+
+
+<hr>
+
+## Data schema
+
+### Active Agreements List
+
 | Field / Column | Description | Format / Values | Source |
 |---|---|---|---|
 | `STATE` | State or territory | Uppercase full name | ICE |
@@ -26,7 +42,8 @@
 
 <hr>
  
-## Canceled Agreements List
+### Canceled Agreements List
+
 Shares `STATE`, `LAW ENFORCEMENT AGENCY`, `Location`, `TYPE`, `COUNTY`, `SUPPORT TYPE` and `SIGNED` with **Active Agreements List**, plus:
  
 | Field Column | Description | Format / Values |
@@ -34,3 +51,10 @@ Shares `STATE`, `LAW ENFORCEMENT AGENCY`, `Location`, `TYPE`, `COUNTY`, `SUPPORT
 | `REMOVED DATE` | First ICE edition without the agreement | Date |
 | `CANCEL REASON` | Reason for agreement removal | enum (7 values) |
 | `NOTES` | Context: related agreements, which edition | Text |
+
+<hr>
+
+### Other Data
+
+| Field Column / Report Metric | Description | Format / Values |
+|---|---|---|
