@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: 287(g) Program Report
+message: >-
+  If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: Andrew
+    family-names: Thrasher
+    affiliation: Titus Consulting
+  - name: Titus Consulting
+    city: Chicago
+    country: US
+    website: 'https://tituslegaldesign.com'
+    email: info@tituslegaldesign.com
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23889239
+    description: 287(g) Program Report Datasets
+repository-code: 'https://github.com/TitusThrasher/287g-Program-Report'
+url: 'https://tituslegaldesign.com/287g-program/report'
+keywords:
+  - 287(g)
+  - 287g
+  - immigration enforcement
+  - ICE
+license: MIT
