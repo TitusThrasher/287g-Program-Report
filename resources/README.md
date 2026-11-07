@@ -21,6 +21,7 @@ From Titus:
 
 | Resource Name | Link | Published by | Date Published/Updated | Resource Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Force Multiplied | [Link](https://www.fwd.us/news/287g-task-force-multiplied/) | **FWD.us** | Oct. 28, 2026 | Policy Report/Analysis |
 | Texas's Privately Operated and Armed 287(g) Transportation Scheme | [Link](https://www.ilrc.org/community-resources/texass-privately-operated-and-armed-287g-transportation-scheme) | **Immigrant Legal Resource Center** | Oct. 08, 2026 | Fact Sheet |
 | Inside the ‘Shadow Surge’ Driving ICE Arrests to New Heights | [Link](https://www.themarshallproject.org/2026/09/10/ice-arrests-immigrants-local-police-287g) | **The Marshall Project** | Sept. 10, 2026 | Policy Report/Analysis |
 | Are States and Localities Required to Cooperate with ICE? | [Link](https://statecourtreport.org/our-work/analysis-opinion/are-states-and-localities-required-cooperate-ice) | **State Court Report** | Aug. 17, 2026 | Policy Report/Analysis |
@@ -47,5 +48,3 @@ Resources particularly useful for journalists, legal professionals, community or
 | Sheriff Immigration Law Enforcement Grant Program Awards List (TX SB 8) | [Link](https://comptroller.texas.gov/economy/development/grants/sb8/awards.php) | Texas Comptroller's Office | Sept. 29, 2026 | State Grant Award List
 
 <hr>
-| ICE's Failed Plans for Tribal Lands | April 27, 2026 | [Text](resources/maxwell-commons-newsletter/ICEs-Failed-Plans-for-Tribal-Lands-04272026.html) |
-
