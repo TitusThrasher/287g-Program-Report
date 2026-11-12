@@ -28,6 +28,7 @@ treeView-beta
                 🧮 data/
                     ✔️ Active/
                     🛑 Canceled/
+                    💰 Financials/
                 📰 media/
                     README.md
                 🗄️ docs/
@@ -51,19 +52,20 @@ treeView-beta
 
 Archive snapshots of 287(g) Program Report processed data; dynamic "live" data is available for viewing/download in the report. For questions or issues accessing the data, please reach out at <info@tituslegaldesign.com>
 
-📂 Active agreements (Weekly CSV snapshots)
+📂 [Active agreements](/data/active-agreements) (Weekly CSV snapshots)
 
-📂 Canceled agreements (Weekly CSV snapshots)
+📂 [Canceled agreements](/data/canceled-agreements) (Weekly CSV snapshots)
 
-🔜 287(g) arrest data (CSV; processed data originally secured and published by [Deportation Data Project](/docs/SOURCE_DATA.md)
+📂 [Financial data](/data/financials)
 
-🔜 Financial data
+🔜  287(g) arrest data (CSV; processed data originally secured and published by [Deportation Data Project](/docs/SOURCE_DATA.md) 
 
 <hr>
 
 ### 📰  Media
 
-List of the **287(g) Program Report**'s media references and formal citations, with links to source articles.
+
+List of the **287(g) Program Report**'s [media references](/media/README.md) and formal citations, with links to source articles.
 
 <hr>
 
