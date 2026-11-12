@@ -1,5 +1,8 @@
 # The 287(g) Program Report's Data
 
+> [!IMPORTANT]
+> Each active + canceled agreement file uploaded to this repository represents a snapshot of the processed dataset reflected in the visual report. File names start with the date (e.g. 'Nov-12-2026-Active') on which the snapshot was taken. For "live" current data, please see links below.
+
 > [!NOTE]
 > Formal methodology with further detail on data sources, processing, and known limitations is [available here](/docs/METHODOLOGY/methodology.md).
 
