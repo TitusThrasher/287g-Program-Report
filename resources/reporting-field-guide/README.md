@@ -2,17 +2,21 @@
 
 ## What it covers:
 
-This is a practical guide for local reporters, investigative journalists, and independent media seeking public records related to ICE’s 287(g) program and its implementation at participating agencies. It assumes you already know the basics of how the 287(g) program works — to learn more before diving into this guide, [see here](https://www.tituslegaldesign.com/immigration-101/287g-program) (and stay tuned for more resources).
+This is a practical guide for local reporters, investigative journalists, and independent media seeking public records related to ICE’s 287(g) program and its implementation at participating agencies. It assumes you already know the basics of how the 287(g) program works — to learn more before diving into this guide, [see here](/resources/README.md) (and stay tuned for more resources).
 
-It covers four things: 
+It includes:
 
-* a breakdown of ICE's layered contract chain, and what each layer reveals (see ‘[Document Chain]()’);
+* a program overview / general explainer (see '[Program Overview](/resources/reporting-field-guide/Program-Overview.md)');
 
-* understanding the specific legal language that ICE uses across its multilayered contract system (see ‘[ICE Contract Language]()’);
+* a breakdown of ICE's layered contract chain, and what each layer reveals (see ‘[Document Chain](/resources/reporting-field-guide/Document-Chain.md)’);
+
+* a summary of the program's various funding sources and financial schemes (see [The Money](/resources/reporting-field-guide/The-Money.md)');
+
+* understanding the specific legal language that ICE uses across its multi-layered contract system (see ‘[ICE Contract Language](/resources/reporting-field-guide/ICE-Contract-Language.md)’);
 
 * how to send federal FOIA requests to ICE, and what you can realistically expect in response (see ‘[Federal FOIA]()’);
 
-* what to include for county and municipal records requests (see ‘[State \+ Local Records]()’) and the documents that have been produced from similar requests (see ‘[Resources \+ References]()’).
+* what to include for county and municipal records requests (see ‘[State \+ Local Records]()’) and the documents that have been produced from similar requests (see ‘[Resources + References]()’).
 
 It does ***not*** include fill-in-the-blank template letters, primarily because of the wide variation in format, length \+ content requirements, etc. across government agencies. Instead, I’ve focused this guide on what to ask for, where to look, and how to frame your requests.
 
