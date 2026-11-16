@@ -16,7 +16,7 @@ This includes:
 
 * understanding the specific **legal language** that ICE uses across its contract system (see ‘[ICE Contract Language](/resources/reporting-field-guide/ICE-Contract-Language.md)’);
 
-* how to send **federal FOIA** requests to ICE, and what you can realistically expect in response (see ‘[Federal FOIA]()’);
+* how to send **federal FOIA** requests to ICE, and what you can realistically expect in response (see ‘[Federal FOIA](/resources/reporting-field-guide/Federal-FOIA.md)’);
 
 * what to include for **county and municipal records requests** (see ‘[State + Local Records]()’) and the documents that have been produced from similar requests (see ‘[Resources + References]()’).
 
