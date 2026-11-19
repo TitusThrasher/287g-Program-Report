@@ -85,3 +85,92 @@ Two categories the MOA itself says exist for each agreement:
 > **For example:** A sheriff who stalls on a request for their service agreement may have already sent the same document to the county commission as a board meeting agenda attachment, to the county auditor as standard financial procedure, or to the state comptroller as part of a grant application. 
 
 ---
+
+```mermaid
+---
+title: How a 287(g) agreement is signed
+config:
+  layout: elk
+  look: neo
+  theme: base
+  themeVariables:
+    fontFamily: "Inter, system-ui, -apple-system, sans-serif"
+    fontSize: 14px
+    primaryColor: "#F7F5F0"
+    primaryTextColor: "#1F2933"
+    primaryBorderColor: "#8A8F98"
+    nodeBorder: "#8A8F98"
+    lineColor: "#7B8190"
+    clusterBkg: "#FBFAF7"
+    clusterBorder: "#D9D5CC"
+    titleColor: "#1F2933"
+    edgeLabelBackground: "#FFFFFF"
+  flowchart:
+    curve: rounded
+    padding: 14
+    wrappingWidth: 320
+    nodeSpacing: 40
+    rankSpacing: 48
+---
+flowchart TB
+
+  %% ── ① Choose ────────────────────────────────────────────
+  subgraph P1["① Choose a program model"]
+    start(["Law enforcement agency official<br/>decides to explore 287(g) agreement."])
+    pick{"<b>Which model?</b><br/><i><small>(Some agencies choose to sign multiple.)</small></i>"}
+    jem["<b>Jail Enforcement Model ⛓</b><br/>Designated officers identify and process removablepeople in the jail."]
+    tfm["<b>Task Force Model 👮</b><br/>Participating officers have broad authority to act on ICE's behalf, including arrest authority, during routine policing."]
+    wso["<b>Warrant Service Officer ⛓</b><br/>Designated officers serve ICE administrative<br/>warrants on people already in the agency's custody."]
+  end
+
+  %% ── ② Apply ─────────────────────────────────────────────
+  subgraph P2["② Apply"]
+    moa@{ shape: docs, label: "🖋 Sign <b>Memorandum of Agreement</b><br/><small>(one MOA per model)</small>" }
+    submit@{ shape: lean-r, label: "📧 Email the signed MOA to ERO287g@ice.dhs.gov" }
+  end
+
+  %% ── ③ ICE review ────────────────────────────────────────
+  subgraph P3["③ ICE review and signature"]
+    review["ICE 'reviews' each submitted MOA"]
+    ok{"Approved?"}
+    back["Returned for revision<br/>or declined"]
+    sign["ICE signs the MOA<br/><small>(Currently: <b>Russell Hott</b>, Assistant Director)<small>"]
+    list[("Agreement added to ICE's<br/><b>published 287(g) list</b>.")]
+    datenote["<b>NOTE</b>: the SIGNED date on this list reflects<br/>ICE's counter-signature date. </br></br>The participating agency's<br/>signature date (verified in the subsequently published MOA) is typically earlier."]
+  end
+
+  
+  %% ── Flow ────────────────────────────────────────────────
+  start --> pick
+  pick --> jem & tfm & wso
+  jem & tfm & wso --> moa
+  moa --> submit --> review --> ok
+  ok -- "✖ No" --> back
+  back -. resubmit .-> submit
+  ok -- "✓ Yes" --> sign --> list
+  sign -.- datenote
+
+
+
+  %% ── Styles ──────────────────────────────────────────────
+  classDef lea      fill:#FFF6DD,stroke:#B7791F,color:#3D2A05,stroke-width:1.5px
+  classDef ice      fill:#EEE9F7,stroke:#5B3F8C,color:#241638,stroke-width:1.5px
+  classDef jemNode  fill:#E6EEF9,stroke:#2F5D9E,color:#0F2547,stroke-width:1.5px
+  classDef tfmNode  fill:#FBE8E2,stroke:#B5452B,color:#43170C,stroke-width:1.5px
+  classDef wsoNode  fill:#E5F2E9,stroke:#2E7D4F,color:#0D2E1B,stroke-width:1.5px
+  classDef decision fill:#FFFFFF,stroke:#1F2933,color:#1F2933,stroke-width:2px
+  classDef reject   fill:#F3F4F6,stroke:#9CA3AF,color:#4B5563,stroke-dasharray:5 4
+  classDef note     fill:#FFFFFF,stroke:#A3A8B0,color:#4B5563,stroke-dasharray:4 3,font-size:13px
+  classDef terminal fill:#1F2933,stroke:#1F2933,color:#FFFFFF,font-weight:600
+
+  class start,term terminal
+  class pick,ok decision
+  class loi,moa,submit lea
+  class review,sign,list,sup,comp ice
+  class ops lea
+  class jem,j1,j2,j3,j4 jemNode
+  class tfm,t1,t2,t3,t4 tfmNode
+  class wso,w1,w2 wsoNode
+  class back reject
+  class datenote note
+```
