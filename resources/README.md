@@ -2,22 +2,27 @@
 
 Curated list of resources for understanding how the 287(g) program works, how communities are pushing back on local agencies' participation, etc.
 
-## Start Here:
+## 👋 Start Here
 
-From other organizations:
+**From elsewhere:**
+
 - [Resources for the Public](#resources-for-the-public)
 - [Resources for Professionals](#resources-for-professionals)
   
 <hr>
 
-From Titus:
+**From Titus:**
+
+- [Field Guide to 287(g) for Journalists + Reporters](/resources/reporting-field-guide/README.md)
 - [Maxwell Commons Newsletter](/resources/maxwell-commons-newsletter/README.md)
 - [Policy Tracking](/resources/policy/)
 - [287(g) Infographics](/resources/infographics/)
 
 <hr>
 
-## Resources for the Public
+## 🌐 Resources for the Public
+
+Fact sheets, policy reports and analysis, advocacy toolkits, and other public resources for understanding and organizing around the 287(g) program.
 
 | Resource Name | Link | Published by | Date Published/Updated | Resource Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -34,9 +39,11 @@ From Titus:
 
 <hr>
 
-## Resources for Professionals 
+## 💼 Resources for Professionals 
 
-Resources particularly useful for journalists, legal professionals, community organizers, policy analysts, and others with a professional interest in understanding the 287(g) program.
+Resources for journalists, legal professionals, community organizers, policy analysts, and others with a professional interest in understanding the 287(g) program.
+
+[Field Guide to 287(g) for Journalists + Reporters](/resources/reporting-field-guide/README.md)
 
 > [!TIP]
 > New to the 287(g) program? Start with the list of [public resources](#resources-for-the-public) above first.
