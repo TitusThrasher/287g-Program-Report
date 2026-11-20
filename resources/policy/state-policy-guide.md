@@ -1,17 +1,11 @@
-# State laws restricting 287(g)
-
-> [!NOTE]
-> 287(g) agreements are effectively banned in **11** states, while restrictions in **4** other states limit participation.
->
-> As of **October 28**, 2026, **27** agreements remain active within the 15 states with restrictions or bans on participation today -- most are located in Virginia, where a [federal injunction](https://www.justice4all.org/news/fourth-circuit-amicus-brief-filed-in-virginias-287g-lawsuit/) protects existing agreements.
-
+# State Laws + Policy on 287(g) Participation
 
 
 <hr>
 
+## 🚫 States where participation is restricted
 
-
-## Ban in state law
+### 🌕 Banned via State Law
 
 A state law that bars law enforcement agencies from entering or carrying out 287(g) agreements, either by name or by barring the functions/authority delegated by the agreements. Oregon and Maine do the second.
 
@@ -30,12 +24,10 @@ A state law that bars law enforcement agencies from entering or carrying out 287
 | **Washington** | [Keep Washington Working Act, E2SB 5497 (RCW 10.93.160)](https://www.atg.wa.gov/keep-washington-working-act-faq-law-enforcement) | 2019 (effective May 21, 2019) | Bars state and local law enforcement from any agreement that grants federal civil immigration authority, including 287(g). | — |
 
 
-
 <hr>
 
 
-
-## Partial restriction
+### 🌓 Partial Restriction(s) in Place
 
 Includes state laws that bar new agreements but keeps existing ones (Massachusetts, Virginia), bars some functions specifically/only (Colorado), or requires the governor's approval (Vermont).
 
@@ -47,9 +39,20 @@ Includes state laws that bar new agreements but keeps existing ones (Massachuset
 | **Virginia** | [SB 783 / HB 1441; Feb 2026 executive action on state agencies](https://www.whro.org/virginia-government/2026-09-02/federal-judge-blocks-new-virginia-limits-on-existing-local-ice-agreements) | Signed April 2026; executive action Feb 4, 2026 (effective Jul 1, 2026) | Bars new 287(g) agreements. Existing agreements had to add a dozen conditions by Sep 1, but a federal injunction blocks that. The governor's February action ended state agencies' agreements. | 22 | U.S. v. Virginia: a preliminary injunction (E.D. Va., Aug 31, 2026) protects existing agreements; the ban on new ones stands. The AG plans to appeal. |
 
 
-
 <hr>
 
+## 👍 States where participation is required
+
+| State | Requirement Type | Included Agencies |
+| --- | --- | --- |
+| **Florida** | - | - |
+| **Texas** | - | County sheriffs' offices; state law enforcement agencies |
+| **North Carolina** | 287(g) participation required by state law | Four state LEAs: NC Adult Corrections, Dept. of Public Safety's Alcohol + Law Enforcement (ALE), State Bureau of Investigation (SBI), and NC Highway Patrol. |
+| **Tennessee** | - | - |
+
+
+
+<hr>
 
 
 ## Notes
