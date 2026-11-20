@@ -134,7 +134,7 @@ flowchart TB
     review["ICE 'reviews' each submitted MOA"]
     ok{"Approved?"}
     back["Returned for revision<br/>or declined"]
-    sign["ICE signs the MOA<br/><small>(Currently: <b>Russell Hott</b>, Assistant Director)<small>"]
+    sign["ICE signs the MOA<br/><small>Currently: <b>Russell Hott</b>, </br><i>(<i>Assistant Director</i>)<small>"]
     list[("Agreement added to ICE's<br/><b>published 287(g) list</b>.")]
     datenote["<b>NOTE</b>: the SIGNED date on this list reflects<br/>ICE's counter-signature date. </br></br>The participating agency's<br/>signature date (verified in the subsequently published MOA) is typically earlier."]
   end
