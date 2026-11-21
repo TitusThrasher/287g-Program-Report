@@ -16,7 +16,7 @@ config:
   theme: base
   themeVariables:
     fontFamily: "Inter, system-ui, -apple-system, sans-serif"
-    fontSize: 14px
+    fontSize: 13px
     lineColor: "#FFFFFF"
   block:
     padding: 6
