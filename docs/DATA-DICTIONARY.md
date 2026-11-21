@@ -1,16 +1,5 @@
 # Data Dictionary
 
-- [General terminology](#general-terminology)
-- [Data schema](#data-schema)
-
-<hr>
-
-## General terminology
-
-
-
-
-
 <hr>
 
 ## Data schema
@@ -19,18 +8,18 @@
 
 | Field / Column | Description | Format / Values | Source |
 |---|---|---|---|
-| `STATE` | State or territory | Uppercase full name | ICE |
-| `LAW ENFORCEMENT AGENCY` | Agency name, corrected where verifiably wrong | Text | ICE (corrected) |
-| `Location` | Agency address | "City, ST ZIP" where found | Agency website, Google Maps, or published MOA |
-| `TYPE` | Level of government | County, Municipality, State | ICE (corrected) |
+| `STATE` | State or territory | Uppercase full name (e.g., "Florida") | ICE |
+| `LAW ENFORCEMENT AGENCY` | Agency name, corrected where verifiably wrong | Text (e.g., "West York Borough Police Department") | ICE (corrected) |
+| `Location` | Agency address | Mailing Address or 'City, [State Abbreviation] ZIP' (e.g. "123 Main Street, Springfield, MO 12345")  | Agency website, Google Maps, or published MOA |
+| `TYPE` | Level of government | enum: County, Municipality, State | ICE (corrected) |
 | `COUNTY` | County containing the agency's jurisdiction, with state suffix added for county agencies (required for Data Studio visual mapping) | Text; empty if unmatched | ICE with manual corrections + modifications|
 | `County Name` | `COUNTY` without the state suffix, for county map joins | Text; empty if unmatched | Derived |
 | `SUPPORT TYPE` | Program model | Task Force Model, Warrant Service Officer, Jail Enforcement Model | ICE |
-| `SIGNED` | Date of ICE counter-signature | Date | ICE, corrected to MOA where flagged |
+| `SIGNED` | Date of ICE counter-signature | Date (MM/DD/YYYY) | ICE, corrected to MOA where flagged |
 | `Jurisdiction Population (2024 Census Est.)` | Jurisdiction population | Integer; 'Not Found' if not matched | [Census ACS 2024](https://www.census.gov/programs-surveys/acs/data.html) |
 | `MuniName` | Municipality name used to match Census places | Text; municipalities only | Derived |
 | `MOA URL` | Link to the signed MOA on ice.gov | URL; where reviewed | ICE |
-| `LEA Signed Date` | Date the agency official signed the MOA | Date; where reviewed | MOA |
+| `LEA Signed Date` | Date the participating agency official signed the MOA | Date (MM/DD/YYYY); incomplete data (only available for reviewed MOAs) | MOA |
 | `LEA Signer Name` | Agency official who signed | Text; where reviewed | MOA |
 | `LEA Signer Position` | That official's title | Text | MOA |
 | `LEA Point of Contact (POC)` | Contact named in the MOA | Text | MOA |
