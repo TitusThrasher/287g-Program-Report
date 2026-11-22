@@ -33,11 +33,11 @@ block
   T2["✓"]
   J2["—"]
   W2["—"]
-  l3["Arrests for immigration-related violations behalf of ICE</br> without a warrant</br> 'if the person may escape'"]:2
+  l3["Make arrests for suspected immigration-related violations on behalf of ICE"]:2
   T3["✓"]
   J3["—"]
   W3["—"]
-  s5["IN JAIL OR AFTER AN ARREST"]:5
+  s5["IN JAIL OR AFTER ARREST"]:5
   l6["Question people in custody about status"]:2
   T6["✓"]
   J6["✓"]
@@ -50,15 +50,15 @@ block
   T8["✓"]
   J8["✓"]
   W8["—"]
-  l10["Serve ICE administrative warrants"]:2
+  l10["Serve ICE admin warrants"]:2
   T10["✓"]
   J10["✓"]
   W10["✓"]
-  l13["Detain and transport to ICE"]:2
+  l13["Detain + transport to ICE"]:2
   T13["✓"]
   J13["✓"]
   W13["✓"]
-  s17["WHERE AND HOW"]:5
+  s17["WHERE + HOW"]:5
   l18["Where powers apply"]:2
   T18["Field and jail"]
   J18["Jail only"]
@@ -94,13 +94,19 @@ block
   class hW hW
 ```
 
+---
+
 <details>
 <summary>Learn More</summary>
 
 **National Immigration Forum**'s [Explainer: Training Under the Revived 287(g) Task Force Model](https://forumtogether.org/article/explainer-training-under-the-revived-287g-task-force-model/) (September 2025)
+
 **American Immigration Council**'s [287(g) Program Fact Sheet](https://www.americanimmigrationcouncil.org/fact-sheet/287g-program-immigration/) (May 2025)
+
 **Immigrant Legal Resource Center**'s [Annotated 287(g) MOAs](https://www.ilrc.org/resources/annotated-287g-moas) (July 2026)
+
 **National Immigrant Law Center**'s [ICE 287(g) Call Center Guide](https://www.nilc.org/resources/1-800-cruelty-ices-287g-call-center/) (October 2026)
+
 **FWD.us**'s [Force Multiplied](https://www.fwd.us/news/287g-task-force-multiplied/) (October 2026)
 
 </details>
@@ -117,7 +123,7 @@ In January 2025, that figure was **135**\. The expansion is overwhelmingly conce
 
 Before October 2025, DHS only covered training costs and limited software expenses related to agencies’ participation in the program. The One Big Beautiful Bill Act (OBBBA) changed that, and ICE began marketing vehicle grants, technology subscriptions, officer payroll and overtime, and quota-based bonuses to Task Force partners.
 
-For more on the financial incentives involved, see ‘[The Money]()’ section.
+For more on the financial incentives involved, see ‘[The Money](/resources/reporting-field-guide/The-Money.md)’ section.
 
 > [!NOTE]
 > The original DHS announcement re: 287(g) financial reimbursement incentives, posted **September 02, 2025**, appears to have been removed in July 2026, though you can view the [**Wayback Machine** archived version here](https://web.archive.org/web/20260710162413/https://www.dhs.gov/news/2025/09/02/dhs-announces-new-reimbursement-opportunities-state-and-local-law-enforcement).
