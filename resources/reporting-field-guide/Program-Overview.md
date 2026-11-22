@@ -29,18 +29,14 @@ block
   hJ["Jail Enforcement"]
   hW["Warrant Service"]
   s1["IN THE FIELD"]:5
-  l2["Question people about status during routine policing"]:2
+  l2["Ask about status </br>during routine policing"]:2
   T2["✓"]
   J2["—"]
   W2["—"]
-  l3["Arrest without a warrant 'if the person may escape'"]:2
+  l3["Arrests for immigration-related violations behalf of ICE</br> without a warrant</br> 'if the person may escape'"]:2
   T3["✓"]
   J3["—"]
   W3["—"]
-  l4["Arrest for immigration-related violations"]:2
-  T4["✓"]
-  J4["—"]
-  W4["—"]
   s5["IN JAIL OR AFTER AN ARREST"]:5
   l6["Question people in custody about status"]:2
   T6["✓"]
@@ -58,10 +54,6 @@ block
   T10["✓"]
   J10["✓"]
   W10["✓"]
-  l12["Hold up to 48 hours for ICE pickup"]:2
-  T12["not listed in MOA"]
-  J12["not listed in MOA"]
-  W12["✓"]
   l13["Detain and transport to ICE"]:2
   T13["✓"]
   J13["✓"]
@@ -88,19 +80,30 @@ block
   classDef no fill:#F7F6F2,stroke:#E4E1D9,color:#B8BCC4
   classDef unk fill:#FFFFFF,stroke:#A3A8B0,color:#6B7280,stroke-dasharray:4 3,font-size:12px,font-style:italic
   classDef info fill:#FFFFFF,stroke:#E4E1D9,color:#1F2933,font-size:13px
-  class l2,l3,l4,l6,l7,l8,l10,l12,l13,l18,l19 lab
+  class l2,l3,l6,l7,l8,l10,l13,l18,l19 lab
   class s1,s5,s17 sec
-  class T2,T3,T4,T6,T7,T8,T10,T13 yT
+  class T2,T3,T6,T7,T8,T10,T13 yT
   class J6,J7,J8,J10,J13 yJ
   class W10,W12,W13 yW
-  class J2,W2,J3,W3,J4,W4,W6,W7,W8 no
-  class T12,J12 unk
+  class J2,W2,J3,W3,W4,W6,W7,W8 no
+  class T12 unk
   class T18,J18,W18,T19,J19,W19 info
   class h0 hdr
   class hT hT
   class hJ hJ
   class hW hW
 ```
+
+<details>
+<summary>Learn More</summary>
+
+**National Immigration Forum**'s [Explainer: Training Under the Revived 287(g) Task Force Model](https://forumtogether.org/article/explainer-training-under-the-revived-287g-task-force-model/) (September 2025)
+**American Immigration Council**'s [287(g) Program Fact Sheet](https://www.americanimmigrationcouncil.org/fact-sheet/287g-program-immigration/) (May 2025)
+**Immigrant Legal Resource Center**'s [Annotated 287(g) MOAs](https://www.ilrc.org/resources/annotated-287g-moas) (July 2026)
+**National Immigrant Law Center**'s [ICE 287(g) Call Center Guide](https://www.nilc.org/resources/1-800-cruelty-ices-287g-call-center/) (October 2026)
+**FWD.us**'s [Force Multiplied](https://www.fwd.us/news/287g-task-force-multiplied/) (October 2026)
+
+</details>
 
 ## Scale
 
