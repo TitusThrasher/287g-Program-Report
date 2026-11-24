@@ -22,28 +22,27 @@ ICE publishes a spreadsheet of participating agencies, which overwrites the prev
 
 ## 🗺️ What's here
 
+A (consolidated) visual outline of this repository.
+
 ```mermaid
 treeView-beta
-            🚀 287g-Program-Report/
+            📊 287g-Program-Report/
                 🧮 data/
                     ✔️ Active/
                     🛑 Canceled/
                     💰 Financials/
-                📰 media/
-                    README.md
                 🗄️ docs/
                     🧪 methodology/
-                    :accessibility: ACCESSIBILITY.md
                     🗒️ CHANGELOG.md
-                    📖 CODE_OF_CONDUCT.md
                     🔍 DATA_DICTIONARY.md
                     📦 SOURCE_DATA.md
                 🎒 resources/
                     🎨 infographics/
                     📨 maxwell-commons-newsletter/
                     ⚖️ policy/
-                📝 README.md
-                ✍️ LICENSE
+                    📰 reporting-field-guide/
+                📰 media/
+                    README.md
 ```
 
 <hr>
